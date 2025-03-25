@@ -1,0 +1,7 @@
+.cache/hivewindow_linux_x86_64.o: \
+ src/hive/driver/linux_x86_64/hivewindow_linux_x86_64.c \
+ src/include/hivewindow.h
+.cache/hivewindow_win_x86_64.o: \
+ src/hive/driver/win_x86_64/hivewindow_win_x86_64.c \
+ src/include/hivewindow.h
+.cache/test.o: test/test.c
